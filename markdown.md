@@ -1,3 +1,8 @@
+---
+layout: default
+title: "First Markdown"
+rank: 1
+---
 # header
 ## header 
 1. first 
